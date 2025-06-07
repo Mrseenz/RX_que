@@ -60,4 +60,5 @@ date (todays date)
 
 1. notificatons (alerts)
 2. status of drugs preparation (ready, not ready) to be updated by the pharmacists
+3. statistics of drugs
 
